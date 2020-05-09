@@ -16,6 +16,12 @@ Animations :-----
 <><><><><><><>
 <><><><><>
 <><><><>
+
+adding JS
+<script>
+
+
+</script>
 </style>
 </html>
 
